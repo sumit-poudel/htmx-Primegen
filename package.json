@@ -1,0 +1,23 @@
+{
+  "name": "htmx-primegen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sumit-poudel/htmx-Primegen.git"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/sumit-poudel/htmx-Primegen/issues"
+  },
+  "homepage": "https://github.com/sumit-poudel/htmx-Primegen#readme",
+  "devDependencies": {
+    "prettier": "^3.9.6",
+    "prettier-plugin-go-template": "^0.0.15"
+  }
+}
